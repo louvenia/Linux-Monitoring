@@ -1,0 +1,17 @@
+#!/bin/bash
+#words
+WHITE="\033[37m"
+RED="\033[31m"
+GREEN="\033[32m"
+BLUE="\033[34m"
+PURPLE="\033[35m"
+BLACK="\033[30m"
+#background
+WHITE_B="\033[37m"
+RED_B="\033[41m"
+GREEN_B="\033[42m"
+BLUE_B="\033[44m"
+PURPLE_B="\033[45m"
+BLACK_B="\033[40m"
+#end
+THE_END="\033[0m"
